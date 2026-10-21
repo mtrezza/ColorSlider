@@ -88,7 +88,7 @@ ColorSlider is fully documented [here](https://gizmosachin.github.io/ColorSlider
 ### [CocoaPods](https://cocoapods.org/)
 
 ``` ruby
-platform :ios, '9.0'
+platform :ios, '15.0'
 pod 'ColorSlider', '~> 4.4'
 ```
 
